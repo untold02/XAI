@@ -38,3 +38,9 @@ Finaly, we apply interpretability techniques to the explainable model's output. 
 
 ## Example Use Case
 Suppose we are working on a medical image classification system using a deep learning model to diagnose diseases. By integrating an explainable model, we can not only get a prediction from out deep learning model but also understand which features or regions in the image contributed most to that diagnosis. This knowledge can be invaluable for medical professionals and patients.
+
+
+# Demo:
+![image](https://github.com/untold02/XAI/assets/84290745/5be065fa-4b69-47bc-9c01-b56b86bb8609)
+
+
